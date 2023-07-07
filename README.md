@@ -68,7 +68,7 @@ select * from test_table;
 
 *1) Созданной базы данных;*
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
-
+![image](3.png)
 ![image](1.png)
 ![image](2.png)
 
